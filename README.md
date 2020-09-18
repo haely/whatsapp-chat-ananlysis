@@ -3,7 +3,7 @@
 
 # Prerequisites:
 
-1- Python interprater with matplotlib, pandas, NumPy
+1- Python interprater with matplotlib, pandas, NumP
 2- Jupyter NoteBook (optional)
 3- Whatsapp chat data* (.txt file)--->Dataset
 
